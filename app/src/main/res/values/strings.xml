@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Test vcs</string>
+    <string name="app_name">Test App</string>
+    <string name="developer">Wikisoft</string>
+    <string name="company">aptech</string>
 </resources>
