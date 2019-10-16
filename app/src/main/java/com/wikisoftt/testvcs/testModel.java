@@ -4,6 +4,6 @@ import android.widget.Toast;
 
 public class testModel {
 
-    int a=100;
-    int c=a*a;
+    int a=101;
+    int c=a*10;
 }
